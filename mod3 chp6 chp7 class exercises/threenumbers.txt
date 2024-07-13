@@ -1,0 +1,6 @@
+
+First Number: 33
+Second Number: 55
+Third Number: 66
+Total: 154
+Average: 51.333333333333336
